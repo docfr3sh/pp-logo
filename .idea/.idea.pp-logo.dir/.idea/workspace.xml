@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fb769b5d-eda9-4479-b4d6-0c6b3f22c563" name="Default Changelist" comment="index update">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.pp-logo.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.pp-logo.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598377649586</updated>
       <workItem from="1598377651765" duration="19000" />
-      <workItem from="1598388093895" duration="720000" />
+      <workItem from="1598388093895" duration="1100000" />
     </task>
     <task id="LOCAL-00001" summary="index update">
       <created>1598388539456</created>
@@ -47,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598388539456</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="index update">
+      <created>1598388831513</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598388831513</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +96,11 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="index update" />
     <option name="LAST_COMMIT_MESSAGE" value="index update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="300" y="168" key="Vcs.Push.Dialog.v2" timestamp="1598388834636">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="300" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1598388834636" />
   </component>
 </project>
