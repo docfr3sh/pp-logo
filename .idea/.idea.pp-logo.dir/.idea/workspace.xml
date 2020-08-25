@@ -56,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598377649586</updated>
       <workItem from="1598377651765" duration="19000" />
-      <workItem from="1598388093895" duration="1999000" />
+      <workItem from="1598388093895" duration="2426000" />
     </task>
     <task id="LOCAL-00001" summary="index update">
       <created>1598388539456</created>
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598389228267</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="index update">
+      <created>1598390373568</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598390373568</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,9 +111,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="index update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="300" y="168" key="Vcs.Push.Dialog.v2" timestamp="1598389231145">
+    <state x="300" y="168" key="Vcs.Push.Dialog.v2" timestamp="1598390379339">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="300" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1598389231145" />
+    <state x="300" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1598390379339" />
+    <state x="363" y="201" key="search.everywhere.popup" timestamp="1598390802595">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="363" y="201" key="search.everywhere.popup/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1598390802595" />
   </component>
 </project>
