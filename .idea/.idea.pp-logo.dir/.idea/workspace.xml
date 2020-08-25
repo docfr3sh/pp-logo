@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb769b5d-eda9-4479-b4d6-0c6b3f22c563" name="Default Changelist" comment="">
+    <list default="true" id="fb769b5d-eda9-4479-b4d6-0c6b3f22c563" name="Default Changelist" comment="index update">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +38,16 @@
       <option name="presentableId" value="Default" />
       <updated>1598377649586</updated>
       <workItem from="1598377651765" duration="19000" />
-      <workItem from="1598388093895" duration="329000" />
+      <workItem from="1598388093895" duration="720000" />
     </task>
+    <task id="LOCAL-00001" summary="index update">
+      <created>1598388539456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598388539456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -47,7 +55,20 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="index update" />
+    <option name="LAST_COMMIT_MESSAGE" value="index update" />
   </component>
 </project>
