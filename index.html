@@ -16,7 +16,7 @@
     
     <a-scene embedded arjs='sourceType: webcam; debugUIEnabled: false;'>
       <a-assets>
-        <video id="vid" poster="assets/pp.jpg" crossOrigin="anonymous" type="video/mp4" src="assets/asset.mp4" autoplay loop="true" playsinline webkit-playsinline />
+        <video id="vid" poster="assets/pp.jpg" crossOrigin="anonymous" type="video/mp4" src="assets/asset.mp4" autoplay loop="true" playsinline webkit-playsinline controls />
       </a-assets>
       
       <a-marker-camera preset="custom" type="pattern" url="assets/marker.patt">
@@ -24,19 +24,19 @@
       </a-marker-camera>
       <a-entity camera></a-entity>
     </a-scene>
-  
-  <!--  
+    
+    
   <script>
       window.addEventListener('click', function () {
         var video = document.querySelector('#vid');
-        if (video.paused == true) {
-          video.play();
-          } else {
+        if (video.paused == false) {
           video.pause();
+          } else {
+          video.play();
         }
-      }, false);
+      }, true);
     </script>
-  -->
+  
   
     </body>
     
