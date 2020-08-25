@@ -29,12 +29,12 @@
   <script>
       window.addEventListener('click', function () {
         var video = document.querySelector('#vid');
-        if (video.paused == false) {
-          video.pause();
-          } else {
+        if (video.paused == true) {
           video.play();
+          } else {
+          video.pause();
         }
-      }, true);
+      }, false);
     </script>
   
   
