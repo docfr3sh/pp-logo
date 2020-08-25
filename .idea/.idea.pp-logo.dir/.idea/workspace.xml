@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb769b5d-eda9-4479-b4d6-0c6b3f22c563" name="Default Changelist" comment="index update" />
+    <list default="true" id="fb769b5d-eda9-4479-b4d6-0c6b3f22c563" name="Default Changelist" comment="index update">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.pp-logo.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.pp-logo.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598377649586</updated>
       <workItem from="1598377651765" duration="19000" />
-      <workItem from="1598388093895" duration="4509000" />
+      <workItem from="1598388093895" duration="4956000" />
     </task>
     <task id="LOCAL-00001" summary="index update">
       <created>1598388539456</created>
